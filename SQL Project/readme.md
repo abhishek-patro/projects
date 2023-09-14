@@ -1,1 +1,1 @@
-This is SQL Exploration Project
+SQL Exploration Project
