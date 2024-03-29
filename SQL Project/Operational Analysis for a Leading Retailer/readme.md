@@ -2,7 +2,7 @@
 # Operational Analysis of an Leading Retailer
 [Code Link](https://github.com/abhishek-patro/projects/blob/main/SQL%20Project/Operational%20Analysis%20for%20a%20Leading%20Retailer/Operational%20Analysis%20for%20Leading%20Retailer%20using%20SQL.pdf)
 ### 📌Project Overview
-This Data Analysis project aims to extract valuable insights into several facets of the company, including order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels. This dataset focuses on the operations of a retailer in Brazil and provides insightful information about 100,000 orders placed between 2016 and 2018. 
+This Data Analysis project aims to extract valuable insights into several facets of the company, which includes order pricing, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels. This dataset focuses on the operations of a retailer in Brazil and provides insightful information about 100,000 orders placed between 2016 and 2018. 
 
 
 ### 📊Data Sources
