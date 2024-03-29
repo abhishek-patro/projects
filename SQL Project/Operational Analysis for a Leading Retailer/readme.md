@@ -1,11 +1,11 @@
 
 # Operational Analysis of an Leading Retailer
 
-### Project Overview
+### 📌Project Overview
 This Data Analysis project aims to extract valuable insights into several facets of the company, including order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels. This dataset focuses on the operations of a retailer in Brazil and provides insightful information about 100,000 orders placed between 2016 and 2018. 
 
 
-### Data Sources
+### 📊Data Sources
 - customers.csv - contains customer information
 - sellers.csv - holds seller details
 - order_items.csv - contains details of the orders made by the customers
@@ -15,10 +15,10 @@ This Data Analysis project aims to extract valuable insights into several facets
 - orders.csv - contains logistic info of an order
 - products.csv - provides product descriptions
 
-### Tools
+### 🪛Tools 
 - Big Query | Data Analysis 
 
-### Insights
+### 💻Insights
 - São Paulo(SP) has the highest number of customers and sellers and sales and lower shipping charges.
 
 - State Pariba(PB) has the highest average order values, making it fit for premium products.
@@ -42,7 +42,7 @@ This Data Analysis project aims to extract valuable insights into several facets
 - Customers tend to buy least items from these product categories (Art, PCS, Signalization and Safety, Construction and Tools and Christmas articles).
 
 
-### Recommendations
+### 📱Recommendations
 
 - The retailer should consider partnering with a credit card company to promote their card and run advertisements. This strategy could incentivize customers, as a majority prefer using credit cards for payments. 
 
