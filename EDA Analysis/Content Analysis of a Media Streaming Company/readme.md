@@ -13,6 +13,21 @@ This Data Analysis project aims to extract valuable insights to know which type 
 - Maplotlib
 - Seaborn 
 
+
+### 🫧Data Cleaning/Prepartion
+- Unnested columns like genres, directors, cast etc... that had comma separated values.
+- Handled Missing and Duplicate records.
+- Feature Engineering.
+- Divided the dataset into movies and tv shows.
+
+### ✨EDA✨
+- EDA involved extensive analysis to answer questions such as:
+  - How has the number of movies released per year changed over the last 20-30 years?
+  - What is the best time to launch a TV show?
+  - Understanding what content is available in different countries
+  - Comparison of tv shows vs. movies.
+
+
 ## 📱Recommendations & Insights
 
 - Most of the shows are catered to mature audiences, but diversifying content genres is also important to attract a broader range of viewers. A mix of genres, including drama, comedy, action, romance, and documentary, should be offered to cater to varied tastes.
@@ -32,4 +47,3 @@ This Data Analysis project aims to extract valuable insights to know which type 
 - Some of the oldest movies that were not present and were released before 2010 can be added, which will help cater to the elderly audience, creating a feeling of nostalgia. This will work especially well in a country like Japan due to its higher older demographic.
 
 - The trend of adding most TV shows and movies on Fridays and Thursdays in the first and last weeks of December and July can be leveraged. The release of highly anticipated original content can be done during these months to attract maximum viewership.
-
