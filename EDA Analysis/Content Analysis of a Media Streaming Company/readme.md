@@ -1,6 +1,6 @@
 # Content Analysis of a Media Streaming Company
-[PDF Link]([https://www.example.com](https://github.com/abhishek-patro/projects/blob/main/EDA%20Analysis/Content%20Analysis%20of%20a%20Media%20Streaming%20Company/Content%20Analysis%20of%20a%20Media%20Streaming%20Company%20-%20Jupyter%20Notebook.pdf)) 
-| [Code Link]([https://www.example.com](https://github.com/abhishek-patro/projects/blob/main/EDA%20Analysis/Content%20Analysis%20of%20a%20Media%20Streaming%20Company/Content%20Analysis%20of%20a%20Media%20Streaming%20Company.ipynb))
+[PDF Link](https://github.com/abhishek-patro/projects/blob/main/EDA%20Analysis/Content%20Analysis%20of%20a%20Media%20Streaming%20Company/Content%20Analysis%20of%20a%20Media%20Streaming%20Company%20PDF.pdf) 
+| [Code Link](https://github.com/abhishek-patro/projects/blob/main/EDA%20Analysis/Content%20Analysis%20of%20a%20Media%20Streaming%20Company/Content%20Analysis%20of%20a%20Media%20Streaming%20Company.ipynb)
 ### 📌Project Overview
 This Data Analysis project aims to extract valuable insights to know which type of shows/movies to produce and to understand the preferences and trends of viewers to create content that attracts more subscribers and retains existing ones.
 
