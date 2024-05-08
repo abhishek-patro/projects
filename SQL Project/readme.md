@@ -1,1 +1,0 @@
-SQL Exploration Project
