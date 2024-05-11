@@ -1,5 +1,6 @@
 # Product Based Customer Profiling for a Fitness Equipment Company
-
+[PDF Link](https://github.com/abhishek-patro/projects/blob/main/DS%20Projects/Statistical%20Analysis%20-%20Product%20Based%20Customer%20Profilling/Product%20Based%20Customer%20Profiling.pdf) 
+| [Code Link](https://github.com/abhishek-patro/projects/blob/main/DS%20Projects/Statistical%20Analysis%20-%20Product%20Based%20Customer%20Profilling/Product%20Based%20Customer%20Profiling.ipynb)
 ## 📌Project Overview
 The market research team at AeroFit wants to identify the **characteristics of the target audience for each type of treadmill** offered by the company, to provide a better recommendation of the treadmills to the new customers.
 
