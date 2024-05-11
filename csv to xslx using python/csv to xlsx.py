@@ -2,15 +2,12 @@ import pandas as pd
 import os
 import subprocess
 
-# Activate Conda environment
-conda_env_name = 'new'  # Replace 'your_env_name' with your Conda environment name
-subprocess.run(['conda', 'activate', conda_env_name], shell=True)
 
-path = os.pwd
+path = os.getcwd()
 os.chdir(path)
 print(path)
 
-# # List all files in the directory
+# List all files in the directory
 files = os.listdir()
 print(files)
 
